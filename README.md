@@ -1,2 +1,6 @@
-# example-html
-Practice HTML and example tag uses
+# Example HTML Project
+
+## Core contributors
+
+- @ProfessorO
+- @Halterman
